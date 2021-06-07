@@ -15,6 +15,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    //future1 功能完成
+    UIView* v;
     // Do any additional setup after loading the view.
 }
 

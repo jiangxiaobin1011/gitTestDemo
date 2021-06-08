@@ -30,6 +30,8 @@
     
     UIView* v5;
     
+    UIView* v6;
+    
     return YES;
 }
 

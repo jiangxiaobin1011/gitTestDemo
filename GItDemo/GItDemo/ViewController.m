@@ -30,6 +30,8 @@
     
     //future5 功能完成
     UIView* v5;
+    //future6 功能完成
+    UIView* v6;
 }
 
 

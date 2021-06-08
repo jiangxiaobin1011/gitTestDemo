@@ -24,6 +24,10 @@
     //future3 功能完成
     UIView* v3;
     // Do any additional setup after loading the view.
+    
+    //future4 功能完成
+    UIView* v4;
+    
 }
 
 

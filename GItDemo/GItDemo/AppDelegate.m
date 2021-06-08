@@ -15,6 +15,12 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    
+    //ice
+    UIView* v1;
+    
+    
+    
     // Override point for customization after application launch.
     return YES;
 }

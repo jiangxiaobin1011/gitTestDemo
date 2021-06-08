@@ -20,6 +20,7 @@
     UIView* v1;
     
     
+    UIView* v2;
     
     // Override point for customization after application launch.
     return YES;
